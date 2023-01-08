@@ -1,0 +1,30 @@
+*{
+    margin:0px;
+    padding:0px;
+    box-sizing: border-box;
+}
+
+body {
+    
+    font-family: tines,serif;
+    color: white;
+  background-color: black;
+}
+.header{
+padding:2rem;
+margin:1rem 0 px;
+text-align:center;
+
+}
+.title{
+  margin-bottom:1rem;
+}
+.tribute{
+  display:grid;
+  grid-template-columns: 2fr 1fr;
+  max-width: 78rem;
+  margin:0px auto;
+  background:white;
+  color:black;
+  align-items: center;
+}
