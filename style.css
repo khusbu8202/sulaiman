@@ -16,15 +16,13 @@ margin:1rem 0 px;
 text-align:center;
 
 }
-.title{
-  margin-bottom:1rem;
-}
-.tribute{
+.blog1{ 
   display:grid;
-  grid-template-columns: 2fr 1fr;
-  max-width: 78rem;
-  margin:0px auto;
-  background:white;
-  color:black;
+  grid-template-columns: auto auto auto;
+  max-width: 250px;
+  background-color: white;
+  color:blue;
   align-items: center;
+  padding:0px 0px 0px 1rem;
+
 }
